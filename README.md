@@ -1,6 +1,6 @@
 # Friend Finder
 
-##Description
+## Description
 
 Survey that matches you with your best match for a friend based on having similar answers to questions.
 
@@ -8,7 +8,7 @@ Technologies Used:  Node.js, javascript, jquery, chosen, express, path, heroku d
 
 ## Demo
 
- https://pacific-gorge-51083.herokuapp.com/
+ Please check out this Friend Finder app at https://pacific-gorge-51083.herokuapp.com/
 
 ## Installation
 
