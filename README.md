@@ -2,7 +2,7 @@
 
 ## Description
 
-Survey that matches you with your best match for a friend based on having similar answers to questions.
+Survey that matches you with your best match for a friend based on the number of similar answers to questions.
 
 Backend Technologies Used:  Node.js, Express, Heroku
 
